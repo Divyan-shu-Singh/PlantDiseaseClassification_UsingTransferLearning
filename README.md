@@ -18,7 +18,6 @@ We used the Plant Village dataset, a comprehensive collection of images featurin
 ```bash
 
 git clone https://github.com/Divyan-shu-Singh/PlantDiseaseClassification_UsingTransferLearning.git
-cd plant-disease-classification
 ```
 # Results
 Here are the accuracy rates achieved by each model:
