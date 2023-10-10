@@ -1,6 +1,8 @@
 # PlantDiseaseClassification_UsingTransferLearning
 This repository contains code and resources for a Convolutional Neural Network (CNN) project that uses transfer learning to classify plant diseases in the Plant Village dataset. In this project, we fine-tune various pre-trained models, including VGG16, MobileNetV2, InceptionResNetV2, InceptionV3, and ResNet101V2, achieving impressive accuracy rates.
 
+![Plant Disease Classification](img.jpg)
+
 # Table of Contents
 * Overview
 * Dataset
